@@ -1,1 +1,2 @@
-the first use github¡£
+the first use github;
+the second test!
